@@ -135,7 +135,7 @@ var l_musicRandom = true;
 
 // Music volume
 // Choose a value between 0 (quietest) and 100 (loudest)
-var l_musicVolume = 20;
+var l_musicVolume = 15;
 
 // Enable custom messages?
 // 'true' or 'false'
