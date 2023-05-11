@@ -27,7 +27,7 @@ var l_serverName = "ПИПС [SandBox]";
 // Use a video for the background?
 // Otherwise it will use images
 // 'true' or 'false'
-var l_bgVideo = false;
+var l_bgVideo = true;
 
 // Default available videos:
 // "aurora.webm"
@@ -55,7 +55,7 @@ var l_bgVideo = false;
 // Just make sure they are using webm VP8 format 
 // (Place the videos in the backgrounds/videos folder)
 // (You can also use external URL)
-var l_background = "vid.webm";
+var l_background = "1_3.webm";
 
 // (Image-background only)
 // Enable map-based background image?
