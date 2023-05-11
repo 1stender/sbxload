@@ -60,7 +60,7 @@ video {
 	display: inline-block;
 	font-size: 80px;
 	margin-left: 12px;
-	margin-top: 12px;
+	margin-top: 4px;
 	overflow: hidden;
 }
 
@@ -106,6 +106,8 @@ video {
 #subtitle {
 	margin-left: 12px;
 	display: none;
+	margin-top: 0px;
+	margin-left: 18px;
 }
 
 #music {
