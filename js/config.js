@@ -115,15 +115,15 @@ var l_musicPlaylist = [
     {ogg: "andreyass.ogg", name: "The Cat Empire - The Lost Song"},
 	{ogg: "breakingbad.ogg", name: "Breaking Bad - Mega Hype Theme"},
 	{ogg: "carica.ogg", name: "ANNA ASTI - Царица"},
-	{ogg: "chasi.ogg", name: "Добро - На часах ноль-ноль"},
+	{ogg: "pelmeni.ogg", name: "Уральские пельмени"},
 	{ogg: "cooltrack.ogg", name: "DJ Lugovski & DJ Lika - Transe "},
 	{ogg: "shnyaga.ogg", name: "Кузя - Шняга Шняжная"},
 	{ogg: "huligani.ogg", name: "Осенний вайб"},
-	{ogg: "pelmeni.ogg", name: "Уральские пельмени"},
+	{ogg: "chasi.ogg", name: "Добро - На часах ноль-ноль"},
 	{ogg: "pipsmoment.ogg", name: "ПИПС moment - Theme"},
 	{ogg: "poppa.ogg", name: "The Notorious B.I.G. - Big Poppa"},
 	{ogg: "slander.ogg", name: "Uday Biswas - Slander"},
-	{ogg: "summer.ogg", name: "Calvin Harris - Summer"},
+	{ogg: "summer.ogg", name: "Calvin Harris - Summer"}
 ];
 
 // Random music order?
