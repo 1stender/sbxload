@@ -1,10 +1,3 @@
-//       _           _    _                     _ 
-//      | |         | |  | |                   | |
-//   ___| | ___  ___| | _| |     ___   __ _  __| |
-//  / __| |/ _ \/ _ \ |/ / |    / _ \ / _` |/ _` |
-//  \__ \ |  __/  __/   <| |___| (_) | (_| | (_| |
-//  |___/_|\___|\___|_|\_\______\___/ \__,_|\__,_|
-//     version 2.16
 
 // URL for the server logo
 // Leave it blank to use text instead
@@ -119,14 +112,18 @@ var l_musicDisplay = true;
 // (Place the ogg files in the music folder)
 // (You can also use external URL for the ogg files)
 var l_musicPlaylist = [
-    {ogg: "alphacent.ogg", name: "OXWAVE - Alpha Centauri"},
-	{ogg: "Diewtodsi-Lethal-Radiance.ogg", name: "Diewtodsi - Lethal Radiance"},
-	{ogg: "Diewtodsi-Youth.ogg", name: "Diewtodsi - Youth"},
-	{ogg: "Florida Skyline-Galactic Swing.ogg", name: "Florida Skyline - Galactic Swing"},
-	{ogg: "plenka-Memories-You-Lost.ogg", name: "plenka - Memories You Lost"},
+    {ogg: "andreyass.ogg", name: "The Cat Empire - The Lost Song"},
+	{ogg: "breakingbad.ogg", name: "Breaking Bad - Mega Hype Theme"},
+	{ogg: "carica.ogg", name: "ANNA ASTI - Царица"},
+	{ogg: "chasi.ogg", name: "Добро - На часах ноль-ноль"},
+	{ogg: "cooltrack.ogg", name: "DJ Lugovski & DJ Lika - Transe "},
 	{ogg: "shnyaga.ogg", name: "Кузя - Шняга Шняжная"},
-	{ogg: "VMacbeth-Aftermath.ogg", name: "VMacbeth - Aftermath"},
-	{ogg: "VMacbeth-Callisto.ogg", name: "VMacbeth - Calisto"},
+	{ogg: "huligani.ogg", name: "Осенний вайб"},
+	{ogg: "pelmeni.ogg", name: "Уральские пельмени"},
+	{ogg: "pipsmoment.ogg", name: "ПИПС moment - Theme"},
+	{ogg: "poppa.ogg", name: "The Notorious B.I.G. - Big Poppa"},
+	{ogg: "slander.ogg", name: "Uday Biswas - Slander"},
+	{ogg: "summer.ogg", name: "Calvin Harris - Summer"},
 ];
 
 // Random music order?
