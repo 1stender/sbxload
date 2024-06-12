@@ -113,15 +113,15 @@ var l_musicDisplay = true;
 // (You can also use external URL for the ogg files)
 var l_musicPlaylist = [
     {ogg: "andreyass.ogg", name: "The Cat Empire - The Lost Song"},
-	{ogg: "breakingbad.ogg", name: "Breaking Bad - Mega Hype Theme"},
+	{ogg: "mihalpalich.ogg", name: "МАХАЛ ПАЛЫЧ - ОТЦЫ И ДЕТИ"},
 	{ogg: "carica.ogg", name: "ANNA ASTI - Царица"},
-	{ogg: "pelmeni.ogg", name: "Уральские пельмени"},
+	{ogg: "mylifebelike.ogg", name: "Grits - Ooh Ahh"},
 	{ogg: "cooltrack.ogg", name: "DJ Lugovski & DJ Lika - Transe "},
 	{ogg: "shnyaga.ogg", name: "Кузя - Шняга Шняжная"},
 	{ogg: "huligani.ogg", name: "Осенний вайб"},
 	{ogg: "chasi.ogg", name: "Добро - На часах ноль-ноль"},
 	{ogg: "pipsmoment.ogg", name: "ПИПС moment - Theme"},
-	{ogg: "poppa.ogg", name: "The Notorious B.I.G. - Big Poppa"},
+	{ogg: "dream.ogg", name: "lol Smith - Kernkrafft"},
 	{ogg: "slander.ogg", name: "Uday Biswas - Slander"},
 	{ogg: "summer.ogg", name: "Calvin Harris - Summer"}
 ];
