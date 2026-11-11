@@ -113,7 +113,7 @@ var l_musicDisplay = true;
 // (You can also use external URL for the ogg files)
 var l_musicPlaylist = [
     {ogg: "andreyass.ogg", name: "The Cat Empire - The Lost Song"},
-	{ogg: "mihalpalich.ogg", name: "МАХАЛ ПАЛЫЧ - ОТЦЫ И ДЕТИ"},
+	{ogg: "mihalpalich.ogg", name: "МИХАЛ ПАЛЫЧ - ОТЦЫ И ДЕТИ"},
 	{ogg: "carica.ogg", name: "ANNA ASTI - Царица"},
 	{ogg: "mylifebelike.ogg", name: "Grits - Ooh Ahh"},
 	{ogg: "cooltrack.ogg", name: "DJ Lugovski & DJ Lika - Transe "},
@@ -136,7 +136,7 @@ var l_musicVolume = 3;
 
 // Enable custom messages?
 // 'true' or 'false'
-var l_messagesEnabled = false;
+var l_messagesEnabled = true;
 
 // Enter your custom messages below
 var l_messages = [
