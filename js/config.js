@@ -165,7 +165,7 @@ var l_messagesRandom = true;
 
 // Delay between message changes
 // in milliseconds
-var l_messagesDelay = 5000;
+var l_messagesDelay = 10000;
 
 // Messages fade time
 // in milliseconds
